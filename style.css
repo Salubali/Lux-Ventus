@@ -178,7 +178,7 @@
 }
 
 .couple{
-  background-image: url(./Mask\ group.png);
+  background-image: url(./0.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -262,7 +262,7 @@
 }
 
 .image {
-  background: url(./Mask\ group\ \(2\).png);
+  background: url(./2.png);
   height: 280px;
   max-width: 580px;
   background-size: cover;
@@ -271,7 +271,7 @@
 
 }
 .image1 {
-  background: url(./Mask\ group\ \(3\).png);
+  background: url(./3.png);
   height: 280px;
   max-width: 580px;
   background-size: cover;
